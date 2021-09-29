@@ -17,6 +17,7 @@ artist2 = Artist("Elvis Presley")
 artist_repository.save(artist2)
 
 album1 = Album("The White Album", "rock", artist1)
+album_repository.save(album1)
 
 
 
